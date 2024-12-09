@@ -1,0 +1,6 @@
+name: BDWalcomeMsg
+main: BDWalcomeMsg\BobyDev\Main
+version: 1.0.0
+api: [5.0.0]
+author: BobyDev
+description: A plugin to display a custom welcome message to players when they join.
